@@ -39,7 +39,7 @@ Windows:
 
 ## ☕ Usando <Agendex>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <Agendex>, siga estas etapas:
 
 ```
 <exemplo_de_uso>
