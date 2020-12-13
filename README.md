@@ -8,23 +8,24 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Esse é um projeto de uma agenda para uma igreja da minha cidade natal.
+> Esse é um projeto de uma agenda para uma igreja da minha cidade natal, o intuito desse sistema seria para que o Pe. possa realizar cadastro de "pacientes" e que seja possível que ele realize agendamentos para conversas com cada paciente, além disso, essas conversas podem ter anotações realizadas para que seja possível reler o que foi conversado com o "paciente" durante a conversa.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [ ] Criar uma logo para o projeto
+- [ ] Estruturar o projeto para que ele esteja no padrão de POO (em desenvolvimento por Matheuscs787).
+- [ ] Estruturar a conexão com o banco de dadods (em desenvolvimento por Matheuscs787).
+- [ ] Criar os metodos de consulta, insert, delete, update ao banco de dados para pacientes e anotações (em desenvolvimento por Matheuscs787).
+- [ ] Criar a função de agendamento de horários.
+- [ ] Mais atividades em breve.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+* Você instalou a versão 7.0.3 do PHP e a versão 8.0 do MySQL. `<linguagem / dependência / requeridos>`
 * Você tem uma máquina `<Windows>`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
