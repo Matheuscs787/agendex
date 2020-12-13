@@ -25,9 +25,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão 7.0.3 do PHP e a versão 8.0 do MySQL. `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você tem instalado na sua máquina os seguintes itens: `<PHP v7.0.3 / MySQL v8.0 / git>`
+* Você tem uma máquina `<Windows>`. Por enquanto fizemos tudo pensando no desempenho voltado para o `<Windows>`.
+* Você leu `<guia / link / documentação relacionada ao projeto / licença do projeto>`.
 
 ## 🚀 Instalando <Agendex>
 
@@ -35,7 +35,7 @@ Para instalar o <Agendex>, siga estas etapas:
 
 Windows:
 ```
-<comando_de_instalação>
+<Em breve>
 ```
 
 ## ☕ Usando <Agendex>
@@ -43,7 +43,7 @@ Windows:
 Para usar <Agendex>, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+<Em breve>
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
@@ -68,25 +68,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars2.githubusercontent.com/u/43830739?v=4" width="100px;" alt="Foto do Matheus Souza no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Matheus Souza</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars2.githubusercontent.com/u/49441088?v=4" width="100px;" alt="Foto do Igor Benato"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
+          <b>Igor Benato</b>
         </sub>
       </a>
     </td>
